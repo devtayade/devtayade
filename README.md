@@ -9,7 +9,8 @@ and I am pursuing a B.E degree from BSIOTR, pune.
 I am working and learning on multiple android Projects and Apps involving C++, C# and Java.
 although am from Electronics and telecommunication engineering branch !!
 i am very passionate about Android development and databases also open source contributions !!
-
+i dont have achievements to showcase yet !! (First yr Student) but am learning new things and exploring myself.
+also i updating further "about more me" section to looks debugging to eyes
 
 ## Skills:
 
@@ -18,8 +19,9 @@ i am very passionate about Android development and databases also open source co
 - 🔭 currently working on secret project  
 - 🌱 learning Flutter and Databases 
 
-i dont have achievements to showcase yet !! (First yr Student) but am learning new things and exploring myself.
-also i updating further "about more me" section to looks debugging to eyes
+## Hobbies 
+
+#### Travel | Management | public speaking | coding | Gamimg 
 
 <img src="https://github.com/devtayade/devtayade/blob/main/codegif.gif" width="256" />
  
