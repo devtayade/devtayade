@@ -1,6 +1,7 @@
+
+![Android Developer | Design & Development](https://github.com/devtayade/devtayade/blob/main/Purple%20and%20Pink%20Organic%20and%20Handcrafted%20Welcome%20Message%20Elementary%20Back%20to%20School%20Banner.png)
 ### Hi there 👋, Devendra A. Tayade
 #### Android Developer | Design & Development
-![Android Developer | Design & Development](https://media-exp1.licdn.com/dms/image/C4D16AQF7QL2DntYnPw/profile-displaybackgroundimage-shrink_200_800/0/1627456221229?e=1632960000&v=beta&t=feBqvuhPDDgcL-Ut2qMne3-NdkeWLM4m3x0bgwkNFg0)
 
 I speak code and My Blood Group is C++. I fell in love with computers when I first pressed a key on the keyboard in 2016.
 ok ! jokes apart - Seeking a fresher role to enhance and explore my technical knowledge gaining at Savitribai Phule Pune University 
