@@ -1,6 +1,6 @@
 
 ![Android Developer | Design & Development](https://github.com/devtayade/devtayade/blob/main/Purple%20and%20Pink%20Organic%20and%20Handcrafted%20Welcome%20Message%20Elementary%20Back%20to%20School%20Banner.png)
-### Hi there 👋, Devendra A. Tayade
+## Hi, I am Devendra A. Tayade
 #### Android Developer | Design & Development
 
 I speak code and My Blood Group is C++. I fell in love with computers when I first pressed a key on the keyboard in 2016.
@@ -14,11 +14,14 @@ i dont have achievements to showcase yet !! (First yr Student) but am learning n
 also i updating further "about more me" section to looks debugging to eyes.
 
 
-Skills: Java | Firebase | Android Development 
+## Skills:
+
+Java | Firebase | Android Development 
 
 - 🔭 I’m currently working on  secret project  
 - 🌱 I’m currently learning Flutter and Databases 
 
+<img src="https://tenor.com/1hRO.gif" width="256" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devtayade) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devendra-tayade-752833204/) 
