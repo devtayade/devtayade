@@ -21,7 +21,7 @@ Java | Firebase | Android Development
 - 🔭 I’m currently working on  secret project  
 - 🌱 I’m currently learning Flutter and Databases 
 
-<img src="https://tenor.com/1hRO.gif" width="256" />
+<img src="https://github.com/devtayade/devtayade/blob/main/codegif.gif" width="256" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devtayade) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devendra-tayade-752833204/) 
