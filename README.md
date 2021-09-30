@@ -1,5 +1,5 @@
 
-![Android Developer | Design & Development](https://github.com/devtayade/devtayade/blob/main/Purple%20and%20Pink%20Organic%20and%20Handcrafted%20Welcome%20Message%20Elementary%20Back%20to%20School%20Banner.png)
+![Android Developer | Design & Development](https://github.com/devtayade/devtayade/blob/main/github%20image.png)
 ## Hi, I am Devendra A. Tayade
 #### Android Developer | Design & Development
 
