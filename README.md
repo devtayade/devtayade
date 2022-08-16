@@ -21,7 +21,7 @@ also i updating further "about more me" section to looks debugging to eyes
 
 ## Hobbies 
 
-#### Travel | Management | public speaking | coding | Gamimg 
+#### Travel | Management | public speaking | coding | Gaming 
 
 <img src="https://github.com/devtayade/devtayade/blob/main/codegif.gif" width="256" />
  
