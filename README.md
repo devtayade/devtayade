@@ -1,6 +1,6 @@
 
-![Android Developer | Design & Development](https://media-exp1.licdn.com/dms/image/C4D16AQHxaujzPxY4Mw/profile-displaybackgroundimage-shrink_350_1400/0/1658086933448?e=1666224000&v=beta&t=fuXd2Cw_-Pnbjn8Kk-UiQtsa4PhH49MYjx41-05s_cQ)
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net) 
+![Designer who codes](https://media-exp1.licdn.com/dms/image/C4D16AQHxaujzPxY4Mw/profile-displaybackgroundimage-shrink_350_1400/0/1658086933448?e=1666224000&v=beta&t=fuXd2Cw_-Pnbjn8Kk-UiQtsa4PhH49MYjx41-05s_cQ) 
+
 ## Hi, I am Devendra A. Tayade
 #### Android Developer | Design & Development
 
