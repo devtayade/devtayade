@@ -2,7 +2,7 @@
 ![Designer who codes](https://github.com/devtayade/devtayade/blob/90fc973ad4971069bd2272f5ff9364c098b18429/linkedin%20(2).png) 
 
 ## Hi, I am Devendra A. Tayade
-#### Android Developer | Design & Development
+#### Designer who codes 😊
 
 I speak code and My Blood Group is C++. I fell in love with computers when I first pressed a key on the keyboard in 2016.
 ok ! jokes apart - Seeking a fresher role to enhance and explore my technical knowledge gaining at Savitribai Phule Pune University 
@@ -15,14 +15,9 @@ also i updating further "about more me" section to looks debugging to eyes
 
 ## Skills:
 
-### Java | Firebase | Android Development 
+### Figma | Adobe Creative suite | Mural | Java | Firebase | Android Development 
 
-- 🔭 currently working on secret project  
-- 🌱 learning Flutter and Databases 
 
-## Hobbies 
-
-#### Travel | Management | public speaking | coding | Gaming 
 
 <img src="https://github.com/devtayade/devtayade/blob/main/codegif.gif" width="256" />
  
