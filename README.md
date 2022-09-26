@@ -1,5 +1,5 @@
 
-![Designer who codes](https://media-exp1.licdn.com/dms/image/C4D16AQHxaujzPxY4Mw/profile-displaybackgroundimage-shrink_350_1400/0/1658086933448?e=1666224000&v=beta&t=fuXd2Cw_-Pnbjn8Kk-UiQtsa4PhH49MYjx41-05s_cQ) 
+![Designer who codes](https://github.com/devtayade/devtayade/blob/90fc973ad4971069bd2272f5ff9364c098b18429/linkedin%20(2).png) 
 
 ## Hi, I am Devendra A. Tayade
 #### Android Developer | Design & Development
